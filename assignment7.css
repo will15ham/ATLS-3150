@@ -1,0 +1,22 @@
+h1, h2 {
+    color: lightcoral;
+}
+p {
+    color: black;
+}
+ul {
+    border: 2px solid lightblue;
+}
+ol {
+    border: 2px solid lightblue;
+}
+    ol, ul {
+    padding: 5px 20px;
+    border-radius: 4px;
+    }
+    h1, strong {
+    color: lightcoral;
+    }
+    em {
+    color: gray;
+    }
